@@ -98,6 +98,7 @@ A full-stack real-time chat application built with the MERN stack (MongoDB, Expr
 The application should now be running on `http://localhost:5173` (frontend) and `http://localhost:5001` (backend).
 
 ## 📂 Project Structure
+```
 ├── backend/ # Node.js/Express backend 
 │ ├── src/ 
 │ │ ├── controllers/ # Request handlers 
@@ -115,3 +116,4 @@ The application should now be running on `http://localhost:5173` (frontend) and 
 │ │ └── App.jsx # Main component 
 │ └── package.json 
 │ └── package.json # Root configuration
+```
